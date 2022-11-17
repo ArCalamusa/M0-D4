@@ -1,0 +1,18 @@
+.child {
+    width: 30%;
+    height: auto;
+    color: white;
+    background-color: orange;
+    margin: 5px;
+    font-size: 3em;
+    padding: 10px;
+    font-size: 2em;
+    display: flex;
+
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+
+}
